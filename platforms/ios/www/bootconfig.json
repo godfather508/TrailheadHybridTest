@@ -1,0 +1,14 @@
+{
+  "remoteAccessConsumerKey": "3MVG9Y6d_Btp4xp4y3VGLDNxyDT26zqgbkgz4M7D2QjAPPSNTxrEa0eZNmLr_shPvjxu7QJL6uaYTWHDlA8gu",
+  "oauthRedirectURI": "trailheadapp://auth/success",
+  "oauthScopes": [
+    "web",
+    "api"
+  ],
+  "isLocal": false,
+  "startPage": "/apex/HybridPage",
+  "errorPage": "error.html",
+  "shouldAuthenticate": true,
+  "attemptOfflineLoad": false,
+  "androidPushNotificationClientId": ""
+}
